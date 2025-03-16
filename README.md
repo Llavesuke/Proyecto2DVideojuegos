@@ -32,7 +32,8 @@ Tipos de Licencias CC:
 
 - Restricciones: No se puede vender el contenido como elemento independiente, y está prohibido su uso en contextos ofensivos o inmorales.
 
-Aplicación en Proyectos Reales
+## Aplicación en Proyectos Reales
+
 En mi proyecto de videojuego, he utilizado contenido de Pixabay para audios, ya que su licencia permite el uso comercial sin restricciones adicionales. Sin embargo, para cualquier otro contenido protegido por copyright, es crucial obtener permiso o utilizar licencias Creative Commons que permitan el uso comercial, como CC BY.
 
 Para evitar problemas legales, siempre es recomendable verificar los términos de uso de cada licencia y asegurarse de que el contenido utilizado cumple con las restricciones para el uso comercial. En caso de duda, contactar al titular de los derechos para obtener permiso explícito es la opción más segura.
