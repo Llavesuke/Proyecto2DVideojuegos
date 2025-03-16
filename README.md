@@ -26,7 +26,8 @@ El escenario se compone de dos partes unidas, representando el interior de la vi
 
 ![](assets/fondo_unido.jpeg)
 ## **Diseño de Personaje y Logotipo:** 
-- **Personaje (Ethan Carter):**  **![](assets/ethan_carter.jpeg)**
+- **Personaje (Ethan Carter):**
+**![](assets/ethan_carter.jpeg)**
 
 Descripción visual: Un hombre de mediana edad con rostro cansado y demacrado, ojeras pronunciadas y vestimenta informal. 
 
