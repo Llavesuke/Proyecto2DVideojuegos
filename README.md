@@ -7,10 +7,13 @@
 ## Definición del Juego:** 
 
 - **Título Propuesto:** "The Devil's Due" 
-- **De qué va el juego:** El jugador controla a Ethan Carter, un hombre atormentado por la culpa y el insomnio, quien hereda la decrépita casa de su abuela con la esperanza de venderla para saldar deudas. Sin embargo, desde su primera noche, una presencia siniestra comienza a manifestarse, revelando un oscuro secreto familiar ligado a un pacto demoníaco. Ethan deberá enfrentarse a los horrores de la casa y encontrar una manera de romper la maldición antes de ser consumido por el demonio Azazel. 
-- **Historia:** Ethan Carter, consumido por la culpa y el insomnio, hereda la vieja y aislada casa de su abuela, ubicada en las afueras de un pueblo olvidado. Desesperado por el dinero de la venta para escapar de su pasado, Ethan llega a la casa sin saber el terror que le espera. Desde la primera noche, fenómenos inexplicables perturban su estancia: sonidos extraños, sombras fugaces y un frío constante invaden la atmósfera. Inicialmente, Ethan intenta racionalizar estos eventos, atribuyéndolos al estrés y a su imaginación. No obstante, la intensidad de los incidentes aumenta progresivamente, sumiéndolo en un estado de creciente ansiedad. Una noche, mientras explora el desván polvoriento, Ethan descubre un viejo diario oculto en un cofre. El diario pertenece a su bisabuelo, un hombre obsesionado con lo oculto que realizó un ritual para obtener poder a cambio de un pacto con una entidad demoníaca. Las escalofriantes páginas describen los horrores que siguieron al pacto, la gradual posesión de la casa y la locura que finalmente consumió 
+- **De qué va el juego:** El jugador controla a Ethan Carter, un hombre atormentado por la culpa y el insomnio, quien hereda la decrépita casa de su abuela con la esperanza de venderla para saldar deudas. Sin embargo, desde su primera noche, una presencia siniestra comienza a manifestarse, revelando un oscuro secreto familiar ligado a un pacto demoníaco. Ethan deberá enfrentarse a los horrores de la casa y encontrar una manera de romper la maldición antes de ser consumido por el demonio Azazel.
 
-  al bisabuelo. Ethan comprende entonces la aterradora verdad: la presencia que siente no es un simple fantasma, sino algo mucho más maligno: Azazel, un demonio ancestral ligado a la casa por el pacto de su antepasado. El demonio ha permanecido latente durante generaciones, esperando el momento oportuno para liberarse en el mundo mortal. La llegada de Ethan, un descendiente directo, ha despertado a la bestia. Con el avance de la noche, la casa se transforma en un laberinto de terror. Objetos se mueven por sí solos, puertas se cierran violentamente, susurros guturales parecen emanar de las paredes. Ethan deberá explorar las oscuras y claustrofóbicas habitaciones, resolver acertijos basados en las aterradoras revelaciones del diario y encontrar una manera de romper el pacto demoníaco antes de que Azazel lo consuma por completo, arrastrándolo a la locura y la oscuridad eterna. 
+- **Historia:** Ethan Carter, consumido por la culpa y el insomnio, hereda la vieja y aislada casa de su abuela, ubicada en las afueras de un pueblo olvidado. Desesperado por el dinero de la venta para escapar de su pasado, Ethan llega a la casa sin saber el terror que le espera. Desde la primera noche, fenómenos inexplicables perturban su estancia: sonidos extraños, sombras fugaces y un frío constante invaden la atmósfera. Inicialmente, Ethan intenta racionalizar estos eventos, atribuyéndolos al estrés y a su imaginación.
+
+No obstante, la intensidad de los incidentes aumenta progresivamente, sumiéndolo en un estado de creciente ansiedad. Una noche, mientras explora el desván polvoriento, Ethan descubre un viejo diario oculto en un cofre. El diario pertenece a su bisabuelo, un hombre obsesionado con lo oculto que realizó un ritual para obtener poder a cambio de un pacto con una entidad demoníaca. Las escalofriantes páginas describen los horrores que siguieron al pacto, la gradual posesión de la casa y la locura que finalmente consumió al bisabuelo.
+
+Ethan comprende entonces la aterradora verdad: la presencia que siente no es un simple fantasma, sino algo mucho más maligno: Azazel, un demonio ancestral ligado a la casa por el pacto de su antepasado. El demonio ha permanecido latente durante generaciones, esperando el momento oportuno para liberarse en el mundo mortal. La llegada de Ethan, un descendiente directo, ha despertado a la bestia. Con el avance de la noche, la casa se transforma en un laberinto de terror. Objetos se mueven por sí solos, puertas se cierran violentamente, susurros guturales parecen emanar de las paredes. Ethan deberá explorar las oscuras y claustrofóbicas habitaciones, resolver acertijos basados en las aterradoras revelaciones del diario y encontrar una manera de romper el pacto demoníaco antes de que Azazel lo consuma por completo, arrastrándolo a la locura y la oscuridad eterna. 
 
 ## **Personajes:** 
 - **Ethan Carter:** El protagonista. Un hombre atormentado y desesperado que se enfrenta a los horrores de la casa.
@@ -22,12 +25,13 @@
 El escenario se compone de dos partes unidas, representando el interior de la vieja casa: 
 
 1. **Planta Baja:** Incluye la entrada, el salón, la cocina, un estudio y quizás un sótano oscuro. Cada habitación estará llena de detalles que sugieren el paso del tiempo y la presencia siniestra. 
-1. **Planta Alta:** Contiene los dormitorios, un baño y el desván polvoriento donde Ethan encuentra el diario. Esta zona estará aún más deteriorada y cargada de una atmósfera opresiva. 
+2. **Planta Alta:** Contiene los dormitorios, un baño y el desván polvoriento donde Ethan encuentra el diario. Esta zona estará aún más deteriorada y cargada de una atmósfera opresiva. 
 
 ![](assets/fondo_unido.jpeg)
 ## **Diseño de Personaje y Logotipo:** 
 - **Personaje (Ethan Carter):**
-**![](assets/ethan_carter.jpeg)**
+  
+![](assets/ethan_carter.jpeg)
 
 Descripción visual: Un hombre de mediana edad con rostro cansado y demacrado, ojeras pronunciadas y vestimenta informal. 
 
