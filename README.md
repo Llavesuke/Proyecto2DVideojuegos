@@ -52,6 +52,8 @@ Inkscape: Una alternativa gratuita y de código abierto para el diseño vectoria
 
 Justificación de la Elección: Photoshop es una herramienta que conozco bien y que me permite trabajar tanto con imágenes raster como vectoriales, lo que facilita la integración de diferentes elementos visuales en un proyecto.
 
+Exportación: He exportado en png y webp las imagenes porque son los formatos mas adecuados para web
+
 2. Audition
 Uso en el Proyecto: He utilizado Audition para grabar y editar audios de mi voz. He limpiado el ruido de fondo y ajustado el ecualizador paramétrico para mejorar la calidad del sonido.
 
@@ -63,6 +65,7 @@ Ocenaudio: Ofrece soporte para plugins VST y es adecuado para ediciones rápidas
 
 Justificación de la Elección: Audition forma parte del paquete Adobe Creative Cloud, lo que facilita su integración con otros programas como Premiere Pro. Además, ofrece herramientas avanzadas para la edición multitrack y efectos de audio, ademas estoy muy familiarizado con la aplicación
 
+Exportación: He exportado en formato
 3. DaVinci Resolve
 Uso en el Proyecto: He exportado el video en formato MP4 con preajustes para YouTube y he añadido textos y efectos visuales para crear un video de 33 segundos de duración sobre un trailer del juego propuesto.
 
