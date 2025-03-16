@@ -1,5 +1,79 @@
 # **Fase 1: Proyecto Arte 2D - Propuesta de Videojuego** 
-**Temática y Estilo Artístico:** 
+
+## Implicaciones de las Licencias y Derechos de Autor en el Uso de Material Multimedia
+En el desarrollo de proyectos multimedia, es crucial comprender las implicaciones legales de las licencias y los derechos de autor. A continuación, se explica en detalle los diferentes tipos de licencias y cómo se aplican en proyectos reales, teniendo en cuenta las restricciones para el uso comercial.
+
+1. Copyright (Derechos de Autor)
+- Descripción: El copyright es un derecho legal que protege las obras creativas, otorgando al creador el control exclusivo sobre la reproducción, distribución y exhibición pública de su trabajo. Para utilizar contenido protegido por copyright en proyectos comerciales, es necesario obtener permiso del titular de los derechos o adquirir una licencia.
+
+- Restricciones: No se puede utilizar contenido protegido por copyright sin permiso para fines comerciales. Esto incluye textos, imágenes, música y videos.
+
+2. Creative Commons (CC)
+- Descripción: Creative Commons es una organización que ofrece licencias que permiten a los creadores compartir su trabajo bajo términos específicos. Estas licencias facilitan el uso de contenido protegido por copyright, permitiendo a los usuarios distribuir, adaptar y crear obras derivadas bajo ciertas condiciones.
+
+Tipos de Licencias CC:
+
+- CC BY: Permite el uso comercial, siempre que se dé crédito al creador.
+
+- CC BY-SA: Similar a CC BY, pero requiere que las obras derivadas se compartan bajo la misma licencia.
+
+- CC BY-NC: Solo permite usos no comerciales, siempre con atribución.
+
+- CC BY-NC-SA: Combinación de no comercial y compartir igual.
+
+- CC BY-ND: Permite el uso comercial, pero no se pueden crear obras derivadas.
+
+- CC BY-NC-ND: Solo permite usos no comerciales y sin obras derivadas.
+
+- Restricciones: Dependiendo de la licencia CC, puede haber limitaciones sobre el uso comercial o la creación de obras derivadas. Por ejemplo, las licencias NC (no comercial) no permiten el uso en proyectos que generen ingresos.
+
+3. Pixabay y Licencias Similares
+- Descripción: Pixabay es una plataforma que ofrece contenido multimedia (imágenes, audio) bajo términos amplios y flexibles, permitiendo su uso tanto para fines comerciales como no comerciales sin necesidad de atribución obligatoria.
+
+- Restricciones: No se puede vender el contenido como elemento independiente, y está prohibido su uso en contextos ofensivos o inmorales.
+
+Aplicación en Proyectos Reales
+En mi proyecto de videojuego, he utilizado contenido de Pixabay para audios, ya que su licencia permite el uso comercial sin restricciones adicionales. Sin embargo, para cualquier otro contenido protegido por copyright, es crucial obtener permiso o utilizar licencias Creative Commons que permitan el uso comercial, como CC BY.
+
+Para evitar problemas legales, siempre es recomendable verificar los términos de uso de cada licencia y asegurarse de que el contenido utilizado cumple con las restricciones para el uso comercial. En caso de duda, contactar al titular de los derechos para obtener permiso explícito es la opción más segura.
+
+## Herramientas utilizadas en el proyecto
+En este proyecto, he utilizado varias herramientas de edición multimedia para crear un videojuego de terror psicológico. A continuación, se detallan las herramientas utilizadas y se comparan con algunas alternativas.
+
+1. Photoshop
+Uso en el Proyecto: He utilizado Photoshop para vectorizar un dibujo que fue generado por Gemini 2.0 Flash Experimental (Modelo de generación de imagenes), lo que me permitió hacerlo escalable a cualquier resolución. Además, he editado el personaje vectorizado combinándolo con una imagen PNG de una casa y le he añadido una capa azul oscuro para darle un efecto de noche.
+
+Comparación con Alternativas:
+
+Illustrator: Ideal para crear gráficos vectoriales desde cero, ofrece más funcionalidades avanzadas para el diseño vectorial puro. Sin embargo, Photoshop es más versátil para combinar raster y vector.
+
+Inkscape: Una alternativa gratuita y de código abierto para el diseño vectorial, muy útil para proyectos que requieren exclusivamente gráficos vectoriales.
+
+Justificación de la Elección: Photoshop es una herramienta que conozco bien y que me permite trabajar tanto con imágenes raster como vectoriales, lo que facilita la integración de diferentes elementos visuales en un proyecto.
+
+2. Audition
+Uso en el Proyecto: He utilizado Audition para grabar y editar audios de mi voz. He limpiado el ruido de fondo y ajustado el ecualizador paramétrico para mejorar la calidad del sonido.
+
+Comparación con Alternativas:
+
+Audacity: Una opción gratuita y de código abierto que ofrece funcionalidades similares a Audition, ideal para proyectos personales o de bajo presupuesto.
+
+Ocenaudio: Ofrece soporte para plugins VST y es adecuado para ediciones rápidas y sencillas.
+
+Justificación de la Elección: Audition forma parte del paquete Adobe Creative Cloud, lo que facilita su integración con otros programas como Premiere Pro. Además, ofrece herramientas avanzadas para la edición multitrack y efectos de audio, ademas estoy muy familiarizado con la aplicación
+
+3. DaVinci Resolve
+Uso en el Proyecto: He exportado el video en formato MP4 con preajustes para YouTube y he añadido textos y efectos visuales para crear un video de 33 segundos de duración sobre un trailer del juego propuesto.
+
+Comparación con Alternativas:
+
+Premiere Pro: Ofrece una integración más estrecha con otros productos de Adobe, pero puede ser más propenso a errores que DaVinci Resolve.
+
+Shotcut: Una alternativa gratuita y de código abierto que soporta múltiples formatos y codecs, ideal para proyectos que requieren flexibilidad en la importación de archivos.
+
+Justificación de la Elección: DaVinci Resolve es una herramienta muy estable y eficiente, incluso en hardware de menor rendimiento. Además, ofrece herramientas avanzadas de colorimetría y edición de video que son ideales para proyectos visuales exigentes
+
+## **Temática y Estilo Artístico:** 
 
 - **Temática:** Terror psicológico con elementos de misterio y ocultismo. 
 - **Estilo Artístico:** El estilo artístico del proyecto en general es caricaturesco y estilizado, con influencias del arte digital en 2D. Los elementos visuales se caracterizan por líneas gruesas y definidas que delimitan las formas, lo que otorga un aspecto limpio y claro. Los colores son planos, con sombreados simples que añaden profundidad sin complicar demasiado la composición. La ambientación evoca una atmósfera oscura y decadente 
@@ -99,3 +173,35 @@ La licencia de Pixabay para audios permite su uso bajo términos amplios y flexi
    1. No se puede sugerir que las personas o marcas representadas en el contenido apoyan algún producto o servicio sin su consentimiento explícito. 
 1. Riesgos asociados: 
 - Aunque Pixabay verifica los derechos sobre los contenidos subidos por sus usuarios, existe la posibilidad de que algunos materiales hayan sido publicados sin autorización del verdadero titular del copyright. Esto puede generar problemas legales si se utiliza dicho contenido. 
+
+## Exportación de Contenido Multimedia para Web
+Para asegurar que el contenido multimedia se ajuste a diferentes usos en la web, es crucial exportarlo en formatos optimizados. A continuación, se detallan los formatos recomendados y las razones detrás de su elección.
+
+1. Imágenes
+Formatos Utilizados: WebP, JPEG, PNG.
+
+Justificación:
+
+- WebP: Ofrece una mejor relación calidad-tamaño que JPEG y PNG, lo que reduce el peso del sitio web y mejora la velocidad de carga.
+
+- JPEG: Ideal para fotos y gráficos en la web debido a su equilibrio entre calidad y tamaño de archivo.
+
+- PNG: Utilizado para gráficos y elementos con transparencia, como logotipos y fondos.
+
+2. Audio
+Formatos Utilizados: MP3.
+
+Justificación:
+
+- MP3: Es el formato más común para compartir audio en línea debido a su pequeño tamaño de archivo y compatibilidad universal.
+
+3. Vídeo
+Formatos Utilizados: MP4 (H.264 y H.265), Webm.
+
+Justificación:
+
+- MP4 con H.264: Ampliamente compatible y eficiente para streaming en plataformas web.
+
+- MP4 con H.265 (HEVC): Ofrece una mayor eficiencia en la compresión que H.264, lo que reduce el tamaño del archivo sin sacrificar demasiada calidad.
+
+- WEBM: Para Chrome y Firefox es una gran opción. 
